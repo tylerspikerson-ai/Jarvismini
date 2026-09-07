@@ -1,19 +1,7 @@
 ```
-# Compiled Python files
-__pycache__/
-*.pyc
+# Compressed files
+*.zip
 
-# Logs and temp files
-*.log
-*.tmp
-*.swp
-
-# Environment files
-.env
-.env.local
-*.env.*
-
-# Editors
-.vscode/
-.idea/
+# Generated images
+generated_images/
 ```
